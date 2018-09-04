@@ -31,4 +31,4 @@ function currentLine(line) {
 }
 
 // Using existing array info in a different format = array creation & string creation, returning new array as interpolated variable. 
-// Created an empty array. Set i to zero. Made the condition that as long as i was less than the length of the line, it would increment. .push-ed new format onto created (list)array. Can use empty spaces that are interpolated to format. Added incrementing i for numbers and index of old array.
+// Created an empty array. Set i to zero. Made the condition that as long as i was less than the length of the line, it would increment. .push-ed new format onto created (list)array. Can use empty spaces that are within backticks to format. Added incrementing i for numbers and index of old array.
