@@ -1,7 +1,8 @@
-
+var n = 0
 function takeANumber(line, name){
-    line.push(name);
-  return``
+    n++
+    line.push(n);
+  return n
   }
 
 
